@@ -35,7 +35,33 @@ Splitting the data into test and train
 /Write your code here/
 
 ## OUTPUT:
-/ Show the result/
+## The dataset :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/391cce8d-f388-414d-899a-4752e2648ec5)
+
+## Dropping unwanted features :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/2bcaef48-5a20-4bb6-b0fd-7e48d106e963)
+
+## Checking for null values :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/9c21e1be-8ccd-4fd7-a83e-3975c673c1c1)
+
+## Checking for duplication :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/c9ce2aa0-0a52-4018-9600-364a7ab8ee48)
+
+## Describing the dataset :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/6cd21fe4-36e0-4ca2-95d5-13062a8e50fe)
+
+## Scaling the values :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/d9ae5839-2ee0-4dc6-a840-2c95bd101ee2)
+
+## X Features :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/c56f5bf0-f479-43fb-98fb-9632f624f449)
+
+## Y Features :
+![image](https://github.com/Prasannalakshmiganesan/Ex.No.1---Data-Preprocessing/assets/118610231/ccd3e259-59d5-415a-b880-2ee0c4473368)
+
+
+
+
 
 ## RESULT
 /Type your result here/
